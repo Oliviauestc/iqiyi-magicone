@@ -17,10 +17,10 @@
  - bootstrap提供响应式布局
  
 ## 三、截图
-![网站主页](http://img.blog.csdn.net/20170901143146369?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvd3F5Y3F1cHQ=/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast)
+![网站主页](https://github.com/Oliviauestc/iqiyi-magicone/blob/master/public/images/index.png)
 
 
-![搜索结果页面](http://img.blog.csdn.net/20170901143439513?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvd3F5Y3F1cHQ=/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast)
+![搜索结果页面](https://github.com/Oliviauestc/iqiyi-magicone/blob/master/public/images/sou.png)
 
 
-![排行榜页面](http://img.blog.csdn.net/20170901143557653?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvd3F5Y3F1cHQ=/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast)
+![排行榜页面](https://github.com/Oliviauestc/iqiyi-magicone/blob/master/public/images/top.png)
