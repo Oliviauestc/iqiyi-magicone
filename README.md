@@ -8,7 +8,7 @@
 
  - 本项目运行在node v6.11.1下。直接git clone，然后进入项目目录，运行node server.js即可。
 
-##二、技术栈
+## 二、技术栈
 
  - express4.15.3 提供路由处理
  
@@ -16,7 +16,7 @@
 
  - bootstrap提供响应式布局
  
-##三、截图演示
+## 三、截图
 ![网站主页](http://img.blog.csdn.net/20170901143146369?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvd3F5Y3F1cHQ=/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast)
 
 
